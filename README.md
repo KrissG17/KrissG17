@@ -1,6 +1,10 @@
 <h1 align="left">Hi 👋, I'm KrissG </h1>
 <h2 align="left"> DIGITAL CREATIVE </h2>
-<h3 align="left">Multimedia Engineer focused on graphic and audiovisual production, Full Stack web developer, with knowledge and skills in the fields of design, photography, editing, digital marketing, website creation with WordPress, frontend development specialist and backend developer.</h3>
+<h3 align="left">Multimedia Engineer with a focus on graphic and audiovisual production,
+UX designer, and front-end web developer. With knowledge and skills in
+design, illustration, photography, editing, digital marketing, web
+development, applying the use of agile and innovative methodologies
+focused on improving the user experience.</h3>
 
 - 📫 How to reach me **kristianlopez.17@outlook.com**
 
