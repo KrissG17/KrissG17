@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm KrissG </h1>
+<h1 align="left">Hi!, I'm KrissG </h1>
 <h2 align="left"> DIGITAL CREATIVE </h2>
 <h3 align="left">Multimedia Engineer with a focus on graphic and audiovisual production,
 UX designer, and front-end web developer. With knowledge and skills in
